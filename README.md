@@ -1,33 +1,35 @@
-# AI Commerce Intelligence Framework
+# AI Commerce Intelligence Framework™
 
-The AI Commerce Intelligence Framework explains how AI systems discover, evaluate, trust, compare, and recommend e-commerce brands.
+![AI Commerce Intelligence Framework](ai-commerce-intelligence-framework.png)
 
-## Core Layers
+The AI Commerce Intelligence Framework™ explains how AI systems discover, understand, trust, recommend, and route customers to businesses.
 
-### AI Readability
-Can AI systems access and parse your content?
+## Framework Layers
 
-### AI Understanding
-Can AI systems understand what you sell?
+1. AI Readability™
+2. AI Understanding™
+3. AI Trust™
+4. Recommendation Intelligence™
+5. Decision Confidence™
+6. Purchase
+7. Revenue
 
-### AI Trust
-Do AI systems trust your brand enough to recommend it?
+## Why It Matters
 
-### Recommendation Visibility
-How often does your brand appear in AI-generated recommendations?
+Commerce is shifting from search driven discovery toward AI assisted discovery.
 
-### Recommendation Confidence
-How confident are AI systems when recommending your products?
+Businesses increasingly compete not only for visibility but also for understanding, trust, recommendation, and decision confidence.
 
-### Recommendation Share
-How often are you recommended compared to competitors?
+The AI Commerce Intelligence Framework™ provides a model for understanding this transition.
 
-## Purpose
+## Framework Pages
 
-Traditional SEO was designed for search engines.
-
-AI Commerce Intelligence is designed for recommendation engines.
-
-As AI assistants become shopping assistants, brands need visibility into how AI systems interpret and recommend their stores.
+- https://atomfoundry.dev/framework/ai-readability
+- https://atomfoundry.dev/framework/ai-understanding
+- https://atomfoundry.dev/framework/ai-trust
+- https://atomfoundry.dev/framework/recommendation-intelligence
+- https://atomfoundry.dev/framework/decision-confidence
 
 Created by Atom Foundry.
+
+https://atomfoundry.dev
